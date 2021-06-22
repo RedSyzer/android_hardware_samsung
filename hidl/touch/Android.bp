@@ -33,6 +33,6 @@ cc_binary {
         "libhidlbase",
         "libhidltransport",
         "libutils",
-        "vendor.lineage.touch@1.0",
+        
     ],
 }
